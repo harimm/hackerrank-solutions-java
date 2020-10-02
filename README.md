@@ -8,6 +8,7 @@ COMPLETED
 | 2 | [Strange Grid Again](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/StrangeGridAgain.java) | [Practice > Mathematics > Fundamentals > Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid/problem) | 02-Oct-2020 |
 | 3 | [Army Game](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/ArmyGame.java) | [Practice > Mathematics > Fundamentals > Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem) | 02-Oct-2020 |
 | 4 | [Reverse Game](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/ReverseGame.java) | [Practice > Mathematics > Fundamentals > Reverse Game](https://www.hackerrank.com/challenges/reverse-game/problem) | 02-Oct-2020 |
+| 5 | [Best Divisor](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/BestDivisor.java) | [Practice > Mathematics > Fundamentals > Best Divisor](https://www.hackerrank.com/challenges/best-divisor/problem) | 02-Oct-2020 |
 
 IN PROGRESS
 
