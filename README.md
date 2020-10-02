@@ -9,6 +9,7 @@ COMPLETED
 | 3 | [Army Game](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/ArmyGame.java) | [Practice > Mathematics > Fundamentals > Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem) | 02-Oct-2020 |
 | 4 | [Reverse Game](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/ReverseGame.java) | [Practice > Mathematics > Fundamentals > Reverse Game](https://www.hackerrank.com/challenges/reverse-game/problem) | 02-Oct-2020 |
 | 5 | [Best Divisor](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/BestDivisor.java) | [Practice > Mathematics > Fundamentals > Best Divisor](https://www.hackerrank.com/challenges/best-divisor/problem) | 02-Oct-2020 |
+| 6 | [ConstructingANumber](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/ConstructingANumber.java) | [Practice > Mathematics > Number TheoryConstructing a Number](https://www.hackerrank.com/challenges/constructing-a-number/problem) | 02-Oct-2020 |
 
 IN PROGRESS
 
