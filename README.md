@@ -17,3 +17,4 @@ IN PROGRESS
 | --- | ---- | ------------------- |
 | 1 | [New Year Chaos](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/NewYearChaos.java) | [Practice > Algorithms > Constructive Algorithms > New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) |
 | 2 | [Special Multiple](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/SpecialMultiple.java) | [Practice > Mathematics > Fundamentals > Special Multiple](https://www.hackerrank.com/challenges/special-multiple/problem) |
+| 3 | [John and GCD List](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/JohnAndGcdList.java) | [Practice > Mathematics > Number TheoryJohn and GCD list](https://www.hackerrank.com/challenges/john-and-gcd-list/problem) |
