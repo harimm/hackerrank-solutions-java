@@ -33,6 +33,7 @@ public class MeanMedianAndMode {
         System.out.println(avg);
         System.out.println(median);
         System.out.println(mode);
+        scn.close();
     }
 
     static class FrequencyValue implements Comparable<FrequencyValue> {

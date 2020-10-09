@@ -11,6 +11,7 @@ COMPLETED
 | 5 | [Best Divisor](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/BestDivisor.java) | [Practice > Mathematics > Fundamentals > Best Divisor](https://www.hackerrank.com/challenges/best-divisor/problem) | 02-Oct-2020 |
 | 6 | [Constructing A Number](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/ConstructingANumber.java) | [Practice > Mathematics > Number Theory > Constructing a Number](https://www.hackerrank.com/challenges/constructing-a-number/problem) | 02-Oct-2020 |
 | 7 | [Day 0: Mean, Median, and Mode](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/MeanMedianAndMode.java) | [Practice > Tutorials > 10 Days of Statistics > Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | 09-Oct-2020 |
+| 8 | [Day 0: Weighted Mean](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/WeightedMean.java) | [Practice > Tutorials > 10 Days of Statistics > Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | 09-Oct-2020 |
 
 IN PROGRESS
 
