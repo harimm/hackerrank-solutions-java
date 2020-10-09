@@ -9,7 +9,8 @@ COMPLETED
 | 3 | [Army Game](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/ArmyGame.java) | [Practice > Mathematics > Fundamentals > Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem) | 02-Oct-2020 |
 | 4 | [Reverse Game](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/ReverseGame.java) | [Practice > Mathematics > Fundamentals > Reverse Game](https://www.hackerrank.com/challenges/reverse-game/problem) | 02-Oct-2020 |
 | 5 | [Best Divisor](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/BestDivisor.java) | [Practice > Mathematics > Fundamentals > Best Divisor](https://www.hackerrank.com/challenges/best-divisor/problem) | 02-Oct-2020 |
-| 6 | [ConstructingANumber](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/ConstructingANumber.java) | [Practice > Mathematics > Number TheoryConstructing a Number](https://www.hackerrank.com/challenges/constructing-a-number/problem) | 02-Oct-2020 |
+| 6 | [Constructing A Number](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/ConstructingANumber.java) | [Practice > Mathematics > Number Theory > Constructing a Number](https://www.hackerrank.com/challenges/constructing-a-number/problem) | 02-Oct-2020 |
+| 7 | [Day 0: Mean, Median, and Mode](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/MeanMedianAndMode.java) | [Practice > Tutorials > 10 Days of Statistics > Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | 09-Oct-2020 |
 
 IN PROGRESS
 
@@ -17,4 +18,4 @@ IN PROGRESS
 | --- | ---- | ------------------- |
 | 1 | [New Year Chaos](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/NewYearChaos.java) | [Practice > Algorithms > Constructive Algorithms > New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) |
 | 2 | [Special Multiple](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/SpecialMultiple.java) | [Practice > Mathematics > Fundamentals > Special Multiple](https://www.hackerrank.com/challenges/special-multiple/problem) |
-| 3 | [John and GCD List](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/JohnAndGcdList.java) | [Practice > Mathematics > Number TheoryJohn and GCD list](https://www.hackerrank.com/challenges/john-and-gcd-list/problem) |
+| 3 | [John and GCD List](https://github.com/harimm/hackerrank-solutions-java/blob/main/src/com/harrymdev/hackerrank/solutions/JohnAndGcdList.java) | [Practice > Mathematics > Number Theory > John and GCD list](https://www.hackerrank.com/challenges/john-and-gcd-list/problem) |
